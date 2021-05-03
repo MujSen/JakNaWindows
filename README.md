@@ -1,1 +1,1 @@
-Český návod na Windows
+# Český návod na windows skriptování
